@@ -1,0 +1,11 @@
+
+{
+  "name": "cheat_research",
+  "version": "1.0.0",
+  "title": "Cheat research",
+  "author": "LordOdin",
+  "homepage": "none",
+  "description": "Research is instant and free. Why: in case if you want to test something in sandbox mode cheat mod, but you don't want all techs.",
+  "dependencies": ["base >= 0.15.0"],
+  "factorio_version": "0.16"
+} 
